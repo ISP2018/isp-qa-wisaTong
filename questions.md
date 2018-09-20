@@ -1,5 +1,5 @@
 ## Questions
-----
+
 Q1: What are the 4 values of Agile development ?
 
 Q2: One of the core feature of *Git* is branching. When working in a project, more often than not you may have many branches. Why is that, why should we have branches ?
@@ -11,7 +11,7 @@ Q4: How can you choose which framework to use ?
 Q5: You have learned about *Scrum* and heard about *Agile* but isn't it the same thing ? What is the difference?
 
 ## Answers
-----
+
 A1: The 4 values of Agile development is
 
 1. **Individuals and interactions** over processes and tools
